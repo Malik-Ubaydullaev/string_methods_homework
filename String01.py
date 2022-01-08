@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    s = s.title()
+    return s
